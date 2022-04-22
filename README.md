@@ -1,2 +1,2 @@
-# kam_remake_resources
-KaM Remake Resources repository
+# KaM Remake Resources
+Resources for KaM Remake
